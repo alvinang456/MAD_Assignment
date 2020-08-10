@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="username">Username :</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Didn\'t have account? SIGN UP NOW</string>
+    <string name="username_input">Username</string>
+    <string name="password_input">Password</string>
+    <string name="register_button">Create Account</string>
+    <string name="register_phone_number">Phone Number</string>
+    <string name="register_email">Email</string>
+    <string name="birth_date">Date Of Birth</string>
+    <string name="gender">Gender :</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+</resources>
