@@ -47,7 +47,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/imageView2"
         android:background="@drawable/inputs_design"
-        android:hint="@string/username_input"
+        android:hint="@string/register_email"
         android:padding="20dp"
         android:layout_marginRight="15dp"
         android:layout_marginLeft="15dp"
